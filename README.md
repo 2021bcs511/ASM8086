@@ -2,6 +2,6 @@
 Assembly Language 8086 [MASM]
 
 These Repository Contains 
-- 1. Simple Hex Calculator
-- 2. Simple Decimal Calculator
-- 3. Sorting Algorithms in Assembly
+- Simple Hex Calculator
+- Simple Decimal Calculator
+- Sorting Algorithms in Assembly
