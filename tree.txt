@@ -1,0 +1,6 @@
+./sorting/
+./sorting/bubble_sort.asm
+./sorting/insertion_sort.asm
+./decimal_calculator.asm
+./find_largest.asm
+./simple_hex_calculator.asm
