@@ -4,3 +4,4 @@
 ./decimal_calculator.asm
 ./find_largest.asm
 ./simple_hex_calculator.asm
+./ArraySorting.asm
